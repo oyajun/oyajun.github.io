@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="64"
+   height="64"
+   viewBox="0 0 16.933328 16.933328"
+   version="1.1"
+   id="svg8"
+   inkscape:export-filename="/home/jun/ピクチャ/じゅんとまと/png/16.png"
+   inkscape:export-xdpi="24.000002"
+   inkscape:export-ydpi="24.000002"
+   inkscape:version="1.1.1 (26b7af14f2, 2022-01-19)"
+   sodipodi:docname="jun.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs2">
+    <rect
+       x="-383.34354"
+       y="81.528435"
+       width="119.42282"
+       height="123.68256"
+       id="rect61" />
+    <rect
+       x="-297.87561"
+       y="180.05818"
+       width="166.09756"
+       height="106.66892"
+       id="rect55" />
+    <rect
+       x="586.67859"
+       y="232.79121"
+       width="281.9935"
+       height="172.93047"
+       id="rect28" />
+    <rect
+       x="146.62126"
+       y="164.2653"
+       width="88.001923"
+       height="63.245399"
+       id="rect22" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="7.1854718"
+     inkscape:cx="38.202084"
+     inkscape:cy="48.570227"
+     inkscape:document-units="pc"
+     inkscape:current-layer="g841"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1858"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:pagecheckerboard="0"
+     units="px"
+     inkscape:lockguides="false"
+     inkscape:snap-perpendicular="true"
+     inkscape:snap-tangential="true" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by/4.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="レイヤー 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       id="text20"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect22);fill:#000000;fill-opacity:1;stroke:none" />
+    <text
+       xml:space="preserve"
+       id="text26"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect28);fill:#000000;fill-opacity:1;stroke:none" />
+    <text
+       xml:space="preserve"
+       id="text53"
+       style="font-style:normal;font-weight:normal;font-size:50.8px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect55);fill:#000000;fill-opacity:1;stroke:none" />
+    <g
+       id="g3815"
+       transform="matrix(1.0144113,0,0,1.0144113,0.51057652,-1.266371)">
+      <g
+         id="g841"
+         transform="matrix(0.08418116,0,0,0.08418116,-0.94247725,-2.8228772)">
+        <circle
+           style="fill:#ff0000;stroke:#ff0000;stroke-width:0.264583"
+           id="path10"
+           cx="104.36464"
+           cy="147.51091"
+           r="99.015572" />
+        <path
+           sodipodi:type="star"
+           style="fill:#00ff00;stroke:#00ff00;stroke-width:0.264583"
+           id="path49"
+           sodipodi:sides="5"
+           sodipodi:cx="92.730728"
+           sodipodi:cy="116.003"
+           sodipodi:r1="69.955711"
+           sodipodi:r2="35.557724"
+           sodipodi:arg1="0.97569844"
+           sodipodi:arg2="1.604017"
+           inkscape:flatsided="false"
+           inkscape:rounded="0"
+           inkscape:randomized="0"
+           d="M 131.94719,173.93288 91.549694,151.5411 49.754692,171.20138 58.567022,125.86165 26.953618,92.187598 72.797431,86.557873 95.054274,46.085885 l 19.520706,41.860377 45.36889,8.660984 -33.77936,31.500864 z"
+           inkscape:transform-center-x="-0.52830963"
+           inkscape:transform-center-y="-1.5119527"
+           transform="matrix(0.73579781,0,0,0.25226047,35.63353,39.172818)" />
+        <text
+           xml:space="preserve"
+           id="text59"
+           style="font-style:normal;font-weight:normal;font-size:50.8px;line-height:1.25;font-family:sans-serif;word-spacing:0px;white-space:pre;shape-inside:url(#rect61);fill:#ffffff;fill-opacity:1;stroke:#ffffff"
+           transform="matrix(1.4569416,0,0,1.4569416,584.35941,-59.462987)"><tspan
+             x="-383.34375"
+             y="187.87906"
+             id="tspan3939"><tspan
+               style="font-size:105.833px"
+               id="tspan3937">純</tspan></tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
