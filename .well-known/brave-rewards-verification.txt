@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: oyajun.com
+Token: aaade028f65f8246abf840ecb77243260047895797e7e1ab0deb7ba66f10b76f
