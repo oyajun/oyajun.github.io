@@ -1,5 +1,17 @@
 @charset "UTF-8";
-
-h2 {
-    background-color: rgb(236, 236, 236);
+body{
+    font-size: 17px;
+    line-height: 1.5;
+    color: #333;
+    margin: 4;
+}
+.title{
+    display: flex;
+    background-color: #ececec;
+}
+.h{
+    background-color:#ececec;
+}
+footer{
+    display: flex;
 }
