@@ -3,14 +3,29 @@ body{
     font-size: 17px;
     line-height: 1.5;
     color: #333;
-    margin: 4;
+    margin: 0;
 }
-.title{
-    display: flex;
+header{
     background-color: #ececec;
+    padding: 10px;
+    line-height: 0;
+}
+
+.header-title{
+    font-size: 23px;
+    display: flex;
+}
+.header-links{
+    margin: 10px 0;
+}
+main{
+    width: 1700px;
+    margin-left: auto;
+    margin-right: auto;
 }
 .h{
-    background-color:#ececec;
+    padding: 5px;
+    background-color:#ececec;   
 }
 footer{
     display: flex;
